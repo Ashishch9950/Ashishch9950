@@ -1,4 +1,3 @@
-Ramashish
 Hi 👋, I'm Ramashish Chauhan
 
 A passionate student from India currently pusuing Data Science and Business Analytics with Helthcare domain from Boston Institute of Analytics.
