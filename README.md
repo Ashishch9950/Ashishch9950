@@ -11,3 +11,5 @@ Hi👋, I am Ramashish Chauhan
 📫 How to reach me: chauhanramashish222@gmail.com
 
 😄 Pronouns: He/Him
+
+⚡ Fun fact: The term "Artificial Intelligence" was coined in 1956 by John McCarthy, a Computer scientist at Dartmouth College.
