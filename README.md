@@ -1,8 +1,8 @@
-Hi👋, I am Ramashish Chauhan
+👋, I am Ramashish Chauhan
 
-🔭 I’m currently working on Data Science end to end projects
+##. 🔭 I’m currently working on Data Science end to end projects
 
-🌱 I’m currently learning Data Science, Advanced Data Analytics
+##. 🌱 I’m currently learning Data Science, Advanced Data Analytics
 
 🤔 I’m looking for help with New Job Opportunities in Data Analyst
 
