@@ -7,5 +7,5 @@
 - 📫 How to reach me: chauhanramashish222@gmail.com
 - 💬 Ask me about Data Science and Data Analytics
 - ⚡ Fun fact: The "Artificial Intelligence" was coined in 1956 by Jhon McCarthy, a Computer scientist at Dartmouth College.
-<h3 align="left">Connect with me:</h3>
+
 
